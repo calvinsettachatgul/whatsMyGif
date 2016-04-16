@@ -7,4 +7,4 @@ appLovin Hackathon
 #### Fredricko
 #### Stephanie
 
-#### Find out what your friends think of a Giffy, and what phrase that everyone thinks is the funniest.
+#### Find out what your friends think of a Riffsy Gif, and what phrase that everyone thinks is the funniest.
